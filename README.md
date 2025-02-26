@@ -2,6 +2,8 @@
 C++ is a powerful and versatile programming language that has been a cornerstone of software development for decades. It's a general-purpose language, meaning it can be used to build a wide range of applications, from system software and game development to high-performance computing and embedded systems.
 Here's a closer look at what makes C++ so important:
 
+<br> <img src="[https://static.skillshare.com/uploads/video/thumbnails/b9455fc40a4053509ef0a77b8ddb6a51/original](https://cdn.bulbapp.io/frontend/images/672a2164-5e60-4a19-bb86-cd9f0b45d49d/1)" alt="" width="800px" height="400px">
+
 Key Features and Strengths:
 
  * Object-Oriented Programming (OOP): C++ supports the core principles of OOP, including:
