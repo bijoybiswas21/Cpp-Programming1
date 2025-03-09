@@ -5,8 +5,7 @@
 // int main()
 // {
 //     char ch;
-
-//     ch = 'A';
+//     ch ='A';
 
 //     cout << "The ASCII value of " << ch << " is " << int(ch)
 //          << endl;
